@@ -1,0 +1,28 @@
+.carousel-item{
+    height:500px;
+    color: white;
+}
+.carousel-item.item-1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url('images/banner/banner-1.jpg') no-repeat center;
+    background-size: cover;
+  }
+.carousel-item.item-2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url('images/banner/banner-2.jpg') no-repeat center;
+    background-size: cover;
+  }
+.carousel-item.item-3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url('images/banner/banner-3.jpg') no-repeat center;
+    background-size: cover;
+  }
+footer{
+  background-color: #212529;
+}
+footer p{
+  color: #676f78;
+}
+hr{
+  background-color: #676f78;
+}
